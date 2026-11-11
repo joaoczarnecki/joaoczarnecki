@@ -1,8 +1,8 @@
 ### Hi, I'm João Paulo 🌲
 
-Ph.D. candidate in forest sciences at **Université Laval** (Québec). I study **which tree communities will thrive
+Ph.D. candidate in forest sciences at **Université Laval** (Québec). I study **which tree communities and species will thrive
 where as the climate changes**, using forest inventory plots, airborne and spaceborne **lidar** and species
-distribution models, and I turn the results into tools that foresters can use.
+distribution models, and I try to turn the results into tools that foresters can use.
 
 **🌐 Website: [joaoczarnecki.github.io](https://joaoczarnecki.github.io)** · [ORCID](https://orcid.org/0000-0003-1860-346X) · 🇬🇧 🇧🇷 🇫🇷
 
